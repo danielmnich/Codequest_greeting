@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+    background: linear-gradient(to top right, #d329d7 0%, #4700b1 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+  .welcomeBox{
+    display: block;
+    position: fixed;
+    background: #fff;
+    left: 25%;
+    top: 25%;
+    height: 50%;
+    width: 50%;
+    border-radius: 15px;
+
+
+  }
+  .welcomeBox-header{
+      
+  }
+  .welcomeBox-pictures{
+
+  }
+  .welcomeBox-pictures-1{
+      
+  }
+  .welcomeBox-pictures-2{
+      
+  }
+  .welcomeBox-pictures-3{
+      
+  }
+  .welcomeBox-form{
+
+  }
